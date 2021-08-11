@@ -1,0 +1,6 @@
+site_name: API Guide
+site_url: https://example.com/
+nav:
+    - Introduction: index.md
+  
+theme: readthedocs    
