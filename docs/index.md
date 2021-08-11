@@ -196,7 +196,9 @@ The Places API is billed by the number of data records returned, with each recor
 
 The rate limit to the Places API is 1000 requests per minute, and 100 requests per minute for the bulk requests. For requests that exceed this limit, an HTTP 429 response code will be given.   
 
+
 <hr>
+
 
 ## Terms of Use
 
