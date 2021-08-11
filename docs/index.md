@@ -70,7 +70,7 @@ At any time, press Shift+Space to display a list of possible inputs for your cur
 
 #### Sample Request and Response
 
-To test the API, copy and paste your API key into the API Key area and click the Rounded play icon.
+To test the API, copy and paste your API key into the **API Key** area and click the **Rounded play** icon.
 
 
     query {
