@@ -10,6 +10,7 @@ What you will learn:
 - [GraphiQL Explorer](#graphiQL-explorer)
 - [SafeGraph Place API Query parameters](#safeGraph-place-aPI-query-parameters)
 - [Places API Examples](#places-aPI-examples)
+- [Throttling and Rate Limit](#throttling-and-rate-limit)
 
 
 
