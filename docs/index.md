@@ -40,7 +40,7 @@ SafeGraph uses a single API key to authenticate requests for all of their API co
 
 2. Create an account with SafeGraph. For exsiting user, click **Log In**.
 
-3. Click **Create an API Key**.
+3. Click the button **Create an API Key**.
 
 #### Using curl
 
