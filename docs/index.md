@@ -38,7 +38,7 @@ SafeGraph uses a single API key to authenticate requests for all of their API co
 
 1. Visit https://shop.safegraph.com
 
-2. Create an account with SafeGraph. For exsting user, click **Log In**.
+2. Create an account with SafeGraph. For exsiting user, click **Log In**.
 
 3. Click **Create an API Key**.
 
