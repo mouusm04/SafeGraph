@@ -26,7 +26,7 @@ If you require any additional attributes or functions, please contact api@safegr
 
 ### API Version
 
-The Places API returns versioned data. SafeGraph updates its Places data on a monthly basis. To see the which monthly release the response data is from, check the version attribute in every response.
+The Places API returns versioned data. SafeGraph updates its Places data on a monthly basis. Check the version attribute in each response to determine which monthly release the response data comes from.
 
 <hr>
 
